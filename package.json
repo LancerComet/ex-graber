@@ -1,0 +1,19 @@
+{
+  "name": "ex-graber",
+  "version": "0.1.0",
+  "description": "Just download it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "superagent": "^2.3.0"
+  },
+  "dependencies": {
+    "ora": "^0.3.0"
+  }
+}
